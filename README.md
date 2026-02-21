@@ -39,6 +39,7 @@ The system predicts whether a financial transaction is **Fraudulent or Legitimat
 - Streamlit
 
 ---
+<img width="728" height="759" alt="Screenshot 2026-02-21 151229" src="https://github.com/user-attachments/assets/dfab9c0a-af23-449d-99a5-3fe9fd92633d" />
 
 ## 📊 Machine Learning Pipeline
 
